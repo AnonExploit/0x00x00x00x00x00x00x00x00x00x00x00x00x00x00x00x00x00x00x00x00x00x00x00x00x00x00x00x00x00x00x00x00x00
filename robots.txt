@@ -2,94 +2,46 @@ User-agent: *
 Disallow: /
 
 User-agent: Applebot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Bingbot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Discordbot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: DuckDuckBot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: facebookexternalhit
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Googlebot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Googlebot-Image
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: ia_archiver
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: LinkedInBot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: msnbot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Pinterestbot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Slurp
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: teoma
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Twitterbot
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
+Disallow: index.html
 
 User-agent: Yandex
-Disallow: /wp-admin/
-Disallow: /search*
-Allow: /
-Allow: /wp-admin/admin-ajax.php
-
-
-Sitemap: https://www.cengage.co.uk/sitemap_index.xml
+Disallow: index.html
